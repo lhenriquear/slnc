@@ -25,7 +25,8 @@ namespace ManipulaJsonECsv
             if (System.IO.File.Exists(Path.Combine(dirBDO, arquivoVar)))
             {
                 var json = System.IO.File.ReadAllText(Path.Combine(dirBDO, arquivoVar));
-                return Newtonsoft.Json.JsonConvert.DeserializeObject<List<VRA>>(json);
+                var correcao = "["+json+"]";
+                return Newtonsoft.Json.JsonConvert.DeserializeObject<List<VRA>>(correcao);
             }
             else
             {

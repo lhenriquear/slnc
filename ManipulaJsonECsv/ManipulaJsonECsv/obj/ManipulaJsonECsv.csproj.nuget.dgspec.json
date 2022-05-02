@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jwisl\\Source\\Repos\\slnc\\ManipulaJsonECsv\\ManipulaJsonECsv\\ManipulaJsonECsv.csproj": {}
+    "C:\\Users\\jwisl\\source\\repos\\slnc\\ManipulaJsonECsv\\ManipulaJsonECsv\\ManipulaJsonECsv.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jwisl\\Source\\Repos\\slnc\\ManipulaJsonECsv\\ManipulaJsonECsv\\ManipulaJsonECsv.csproj": {
+    "C:\\Users\\jwisl\\source\\repos\\slnc\\ManipulaJsonECsv\\ManipulaJsonECsv\\ManipulaJsonECsv.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jwisl\\Source\\Repos\\slnc\\ManipulaJsonECsv\\ManipulaJsonECsv\\ManipulaJsonECsv.csproj",
+        "projectUniqueName": "C:\\Users\\jwisl\\source\\repos\\slnc\\ManipulaJsonECsv\\ManipulaJsonECsv\\ManipulaJsonECsv.csproj",
         "projectName": "ManipulaJsonECsv",
-        "projectPath": "C:\\Users\\jwisl\\Source\\Repos\\slnc\\ManipulaJsonECsv\\ManipulaJsonECsv\\ManipulaJsonECsv.csproj",
+        "projectPath": "C:\\Users\\jwisl\\source\\repos\\slnc\\ManipulaJsonECsv\\ManipulaJsonECsv\\ManipulaJsonECsv.csproj",
         "packagesPath": "C:\\Users\\jwisl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jwisl\\Source\\Repos\\slnc\\ManipulaJsonECsv\\ManipulaJsonECsv\\obj\\",
+        "outputPath": "C:\\Users\\jwisl\\source\\repos\\slnc\\ManipulaJsonECsv\\ManipulaJsonECsv\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jwisl\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,24 +59,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[5.0.16, 5.0.16]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
