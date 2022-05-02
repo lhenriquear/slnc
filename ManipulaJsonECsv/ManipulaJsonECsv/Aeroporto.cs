@@ -3,24 +3,24 @@ namespace ManipulaJsonECsv
 {
     public class Aeroporto
     {
-        public string id { get; set; }
-        public string iata { get; set; }
-        public string icao { get; set; }
-        public string name { get; set; }
-        public string location { get; set; }
-        public string street_number { get; set; }
-        public string street { get; set; }
-        public string city { get; set; }
-        public string county { get; set; }
-        public string state { get; set; }
-        public string country_iso { get; set; }
-        public string country { get; set; }
-        public string postal_code { get; set; }
-        public string phone { get; set; }
-        public string latitude { get; set; }
-        public string longitude { get; set; }
-        public string uct { get; set; }
-        public string website { get; set; }
+        public string Id { get; set; }
+        public string Iata { get; set; }
+        public string Icao { get; set; }
+        public string Name { get; set; }
+        public string Location { get; set; }
+        public string Street_number { get; set; }
+        public string Street { get; set; }
+        public string City { get; set; }
+        public string County { get; set; }
+        public string State { get; set; }
+        public string Country_iso { get; set; }
+        public string Country { get; set; }
+        public string Postal_code { get; set; }
+        public string Phone { get; set; }
+        public string Latitude { get; set; }
+        public string Longitude { get; set; }
+        public string Uct { get; set; }
+        public string Website { get; set; }
 
     }
 }
